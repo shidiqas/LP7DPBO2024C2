@@ -37,3 +37,16 @@ Program ini merupakan implementasi sederhana dari permainan klasik "Flappy Bird"
 - Mewakili pemain (burung) dalam permainan.
 - Atribut: Posisi (`posX` dan `posY`), ukuran (`width` dan `height`), gambar (`image`), dan kecepatan (`velocityY`).
 - Memberikan getter dan setter untuk atribut.
+
+## Dokumentasi
+
+### Menu
+![Screenshot (1345)](https://github.com/shidiqas/LP7DPBO2024C2/assets/118581965/34829f7a-bb9f-4d76-a755-7748d8bbe5fe)
+### Permainan
+![Screenshot (1348)](https://github.com/shidiqas/LP7DPBO2024C2/assets/118581965/d90b8a00-b2f2-4d68-bac5-c27372a270c5)
+### Jika menabrak pipa
+![Screenshot (1349)](https://github.com/shidiqas/LP7DPBO2024C2/assets/118581965/3b3d5292-5808-48a9-a298-41be0323bd7c)
+### Jika jatuh ke bawah
+![Screenshot (1350)](https://github.com/shidiqas/LP7DPBO2024C2/assets/118581965/61d658ce-51fc-414f-b99f-d07fc49c5b2a)
+
+
